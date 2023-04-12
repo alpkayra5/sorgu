@@ -1,3 +1,3 @@
 function send() {
-    window.location.href = "sonuc.html";
+    window.location.href = "https://alpkayra5.github.io/sorgu/sonuc.html";
 }
